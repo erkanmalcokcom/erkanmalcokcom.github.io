@@ -1,0 +1,4 @@
+baseURL = 'https://erkanmalcokcom.github.io/'
+languageCode = 'en-gb'
+title = 'EM'
+theme = 'paper'
