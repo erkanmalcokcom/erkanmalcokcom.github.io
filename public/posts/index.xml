@@ -5,13 +5,23 @@
     <link>https://erkanmalcokcom.github.io/posts/</link>
     <description>Recent content in Posts on EM</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language><atom:link href="https://erkanmalcokcom.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 19 Apr 2023 12:18:23 +0100</lastBuildDate><atom:link href="https://erkanmalcokcom.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Contact</title>
-      <link>https://erkanmalcokcom.github.io/posts/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>My Second Post</title>
+      <link>https://erkanmalcokcom.github.io/posts/my-second-post/</link>
+      <pubDate>Wed, 19 Apr 2023 12:18:23 +0100</pubDate>
       
-      <guid>https://erkanmalcokcom.github.io/posts/contact/</guid>
+      <guid>https://erkanmalcokcom.github.io/posts/my-second-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://erkanmalcokcom.github.io/posts/hello-world/</link>
+      <pubDate>Tue, 18 Apr 2023 23:41:55 +0100</pubDate>
+      
+      <guid>https://erkanmalcokcom.github.io/posts/hello-world/</guid>
       <description></description>
     </item>
     
