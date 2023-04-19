@@ -12,12 +12,6 @@ theme = 'paper'
   name = 'Github'
   pre = '<i class="fa fa-heart"></i>'
   url = 'https://github.com/erkanmalcokcom'
-[menu.main.params]
-    rel = 'external'
-[[menu.main]]
-  name = 'Hugo'
-  pre = '<i class="fa fa-heart"></i>'
-  url = 'https://gohugo.io/'
   weight = 30
   [menu.main.params]
     rel = 'external'
