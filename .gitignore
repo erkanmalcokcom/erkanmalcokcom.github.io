@@ -3,6 +3,14 @@ node_modules
 dist
 tmp
 .hugo_build.lock
-go.sum
+.hugo_build.log
+.hugo_build_parameters.json
 jsconfig.json
 .idea
+static
+layouts
+data
+content
+assets
+archetypes
+resources
