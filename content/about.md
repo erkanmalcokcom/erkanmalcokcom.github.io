@@ -1,6 +1,6 @@
 ---
 menu: main
-title: About
+title: About Me
 ---
 
 ```python
