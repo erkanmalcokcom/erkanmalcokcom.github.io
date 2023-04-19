@@ -2,4 +2,32 @@ baseURL = 'https://erkanmalcokcom.github.io/'
 languageCode = 'en-gb'
 title = 'EM'
 theme = 'paper'
-sectionPagesMenu = 'main'
+
+[menu]
+[[menu.main]]
+  name = 'Articles'
+  pageRef = '/'
+  weight = 10
+[[menu.main]]
+  name = 'Github'
+  pre = '<i class="fa fa-heart"></i>'
+  url = 'https://github.com/erkanmalcokcom'
+[menu.main.params]
+    rel = 'external'
+[[menu.main]]
+  name = 'Hugo'
+  pre = '<i class="fa fa-heart"></i>'
+  url = 'https://gohugo.io/'
+  weight = 30
+  [menu.main.params]
+    rel = 'external'
+
+[params]
+  mathJaxInitialize = "{ \"chtml\": { \"displayAlign\": \"left\" } }"
+
+[markup]
+  [markup.highlight]
+    # if `guessSyntax = true`, there will be no unstyled code even if no language
+    # was given BUT Mermaid and Math codefences will not work anymore! So this is a
+    # mandatory setting for your site if you want to use Math codefences
+    guessSyntax = false

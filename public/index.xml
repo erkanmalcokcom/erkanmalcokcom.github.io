@@ -7,12 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language><atom:link href="https://erkanmalcokcom.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About Me</title>
-      <link>https://erkanmalcokcom.github.io/about/</link>
+      <title>Bio</title>
+      <link>https://erkanmalcokcom.github.io/bio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://erkanmalcokcom.github.io/about/</guid>
-      <description>from pyomo.environ import * model = AboutMe() </description>
+      <guid>https://erkanmalcokcom.github.io/bio/</guid>
+      <description>from pyomo.environ import * model = Bio() Built with by Relearn and Hugo
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$ </description>
     </item>
     
     <item>
