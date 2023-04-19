@@ -6,7 +6,7 @@ theme = 'paper'
 [menu]
 [[menu.main]]
   name = 'Articles'
-  pageRef = '/'
+  pageRef = '/content/posts/'
   weight = 10
 [[menu.main]]
   name = 'Github'
