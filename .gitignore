@@ -6,4 +6,15 @@ tmp
 .hugo_build.log
 .hugo_build_parameters.json
 jsconfig.json
+.ideapublic
 .idea
+*.test
+# Generated files by hugo
+/public/
+/archetypes/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
+# Temporary lock file while building
+/.hugo_build.lock
