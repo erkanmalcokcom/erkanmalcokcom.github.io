@@ -9,61 +9,6 @@
       <url>https://erkanmalcokcom.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://erkanmalcokcom.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 20 Apr 2023 13:58:31 +0100</lastBuildDate><atom:link href="https://erkanmalcokcom.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>interview</title>
-      <link>https://erkanmalcokcom.github.io/tags/interview/</link>
-      <pubDate>Thu, 20 Apr 2023 13:58:31 +0100</pubDate>
-      
-      <guid>https://erkanmalcokcom.github.io/tags/interview/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>python</title>
-      <link>https://erkanmalcokcom.github.io/tags/python/</link>
-      <pubDate>Thu, 20 Apr 2023 13:58:31 +0100</pubDate>
-      
-      <guid>https://erkanmalcokcom.github.io/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bell curve</title>
-      <link>https://erkanmalcokcom.github.io/tags/bell-curve/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://erkanmalcokcom.github.io/tags/bell-curve/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>distribution</title>
-      <link>https://erkanmalcokcom.github.io/tags/distribution/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://erkanmalcokcom.github.io/tags/distribution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>gaussian</title>
-      <link>https://erkanmalcokcom.github.io/tags/gaussian/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://erkanmalcokcom.github.io/tags/gaussian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>statistics</title>
-      <link>https://erkanmalcokcom.github.io/tags/statistics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://erkanmalcokcom.github.io/tags/statistics/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://erkanmalcokcom.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
