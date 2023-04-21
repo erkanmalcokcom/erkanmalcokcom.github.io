@@ -9,11 +9,9 @@ jsconfig.json
 .ideapublic
 .idea
 *.test
+*.lock
 # Generated files by hugo
-/public/
-/archetypes/
-/resources/_gen/
-/assets/jsconfig.json
+public
 hugo_stats.json
 
 # Temporary lock file while building
