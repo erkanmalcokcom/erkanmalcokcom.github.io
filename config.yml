@@ -1,5 +1,5 @@
 baseURL: "https://erkanmalcokcom.github.io/"
-title: EM
+title: Erkan Malcok - Data Science Lifelong Student
 paginate: 5
 theme: PaperMod
 
@@ -26,7 +26,7 @@ params:
   defaultTheme: dark # dark, light
   disableThemeToggle: false
   math: true
-
+  fontawesome: true
   ShowReadingTime: true
   ShowShareButtons: false
   ShowPostNavLinks: true
@@ -55,14 +55,14 @@ params:
   label:
     text: "EM"
     icon: "apple-touch-icon.png"
-    iconHeight: 35
+    iconHeight: 30
 
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
     title: EM - Personal Website
     subtitle: "Data Science Student"
-    imageUrl: "<img location>"
+    imageUrl: ""
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
