@@ -1,0 +1,161 @@
+baseURL: "https://erkanmalcokcom.github.io/"
+title: EM
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+#googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: EM - DEV
+  description: "Data Science, Machine Learning, Deep Learning, Computer Vision, NLP, AI, Python, R, SQL, Tableau, Power BI, Statistics, Mathematics, Algorithms, Data Structures, Software Engineering, Software Development, Software Architecture, Software Design, Software Testing, Software Maintenance, Software Project Management, Software Quality Assurance, Software Requirements Engineering, Software Configuration Management, Software Process Improvement, Software Metrics, Software Engineering Management, Software Engineering Economics, Software Engineering Education, Software Engineering Tools, Software Engineering Methodologies, Software Engineering Models, Software Engineering Standards, Software Engineering Practices, Software Engineering Research, Software Engineering Ethics, Software Engineering Case Studies, Software Engineering Case Studies, Software Engineering Case Studies"
+  keywords: [Blog, Portfolio, PaperMod]
+  author: Erkan Malcok
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "02 Jan 2006"
+  defaultTheme: dark # dark, light
+  disableThemeToggle: false
+  math: true
+
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "<link / abs url>"
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "EM"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: false # needs to be explicitly set
+    title: EM - Personal Website
+    subtitle: "Data Science Student"
+    imageUrl: "<img location>"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: my image
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
+
+  # home-info mode
+  homeInfoParams:
+    Content: "\U0001F44B Hi, I'm Erkan. I like brainstorming, observing, interpreting data, integrating new information, theorising, and making decisions based on multiple factors."
+    Title: I think complexity contains simple rules however simplicity contains more complex rules.
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/erkanmalcokcom"
+    - name: linkedin
+      url: "https://linkedin.com/in/erkanmalcok"
+    - name: paypal
+      url: "https://paypal.me/emalcok"
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+    bing:
+      SiteVerificationTag: "XYZabc"
+    yandex:
+      SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  editPost:
+    URL: "https://github.com/<path_to_repo>/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: Subscribe
+      name: Subscribe
+      url: /subscribe/
+      weight: 20
+    - identifier: bio
+      name: Bio
+      url: /bio/
+      weight: 20
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 30
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 1
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary

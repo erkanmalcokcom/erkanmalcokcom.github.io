@@ -7,9 +7,3 @@ tmp
 .hugo_build_parameters.json
 jsconfig.json
 .idea
-static
-layouts
-data
-assets
-archetypes
-resources

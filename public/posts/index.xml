@@ -1,28 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on EM</title>
+    <title>My Go Journey on EM</title>
     <link>https://erkanmalcokcom.github.io/posts/</link>
-    <description>Recent content in Posts on EM</description>
+    <description>Recent content in My Go Journey on EM</description>
+    <image>
+      <title>EM</title>
+      <url>https://erkanmalcokcom.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://erkanmalcokcom.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <lastBuildDate>Wed, 19 Apr 2023 12:18:23 +0100</lastBuildDate><atom:link href="https://erkanmalcokcom.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Apr 2023 19:57:26 +0100</lastBuildDate><atom:link href="https://erkanmalcokcom.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My Second Post</title>
-      <link>https://erkanmalcokcom.github.io/posts/my-second-post/</link>
-      <pubDate>Wed, 19 Apr 2023 12:18:23 +0100</pubDate>
+      <title>What Is Decorator</title>
+      <link>https://erkanmalcokcom.github.io/posts/python/what-is-decorator/</link>
+      <pubDate>Thu, 20 Apr 2023 19:57:26 +0100</pubDate>
       
-      <guid>https://erkanmalcokcom.github.io/posts/my-second-post/</guid>
-      <description></description>
+      <guid>https://erkanmalcokcom.github.io/posts/python/what-is-decorator/</guid>
+      <description>In Python, a decorator is a function or a class that is used to modify the behavior of another function or class without changing its source code. A decorator takes a function or a class as input and returns a new function or class that adds some extra functionality to the original function or class.
+Decorators are typically used to implement cross-cutting concerns such as logging, caching, authentication, or performance monitoring, without having to modify the code of the original function or class.</description>
     </item>
     
     <item>
-      <title>Hello World</title>
-      <link>https://erkanmalcokcom.github.io/posts/hello-world/</link>
-      <pubDate>Tue, 18 Apr 2023 23:41:55 +0100</pubDate>
+      <title>Python Interview Questions</title>
+      <link>https://erkanmalcokcom.github.io/posts/interview/python-interview-questions/</link>
+      <pubDate>Thu, 20 Apr 2023 13:58:31 +0100</pubDate>
       
-      <guid>https://erkanmalcokcom.github.io/posts/hello-world/</guid>
-      <description></description>
+      <guid>https://erkanmalcokcom.github.io/posts/interview/python-interview-questions/</guid>
+      <description>What is the difference between “is” and “==”? &amp;ldquo;is&amp;rdquo; checks if two variables point to the same object, while == checks if the objects referred to by the variables are equal.
+What is a decorator? A decorator is a function that takes another function and extends the behavior of the latter function without explicitly modifying it.
+How would you perform web scraping in Python? You can use the requests library or BeautifulSoup library to parse the HTML of a web page.</description>
+    </item>
+    
+    <item>
+      <title>Normal Distribution</title>
+      <link>https://erkanmalcokcom.github.io/posts/statistics/normal-distribution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://erkanmalcokcom.github.io/posts/statistics/normal-distribution/</guid>
+      <description>Normal Distribution is a continuous probability distribution that is widely used in statistics, mathematics, and natural sciences.</description>
+    </item>
+    
+    <item>
+      <title>Regressions</title>
+      <link>https://erkanmalcokcom.github.io/posts/statistics/regressions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://erkanmalcokcom.github.io/posts/statistics/regressions/</guid>
+      <description>Regression analysis is a statistical method used to model the relationship between a dependent variable (also called the response variable) and one or more independent variables (also called predictors or explanatory variables).
+Regression analysis can be used to analyze and predict the relationship between two or more variables by fitting a line or curve to the data. The goal is to find the best fitting model that explains the relationship between the variables.</description>
     </item>
     
   </channel>
