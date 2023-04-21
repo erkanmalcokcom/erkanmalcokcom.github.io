@@ -12,12 +12,12 @@
 
 .dark {
     --theme: #0c0c0c;
-    --entry: #202062;
+    --entry: #1f1a14;
     --primary: rgba(222, 222, 231, 0.96);
     --secondary: rgba(200, 215, 225, 0.66);
     --tertiary: rgba(1, 1, 5, 0.32);
     --content: rgba(252, 252, 252, 0.82);
     --hljs-bg: #2e2e33;
     --code-bg: #37383e;
-    --border: #446;
+    --border: #2a2524;
 }

@@ -19,4 +19,4 @@ cover:
     hidden: true # only hide on current single page
 ---
 
-# Thank You
+Your submission has been successfully processed. You will receive an email confirmation shortly.
