@@ -46,15 +46,15 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "/images/favicon.ico"
+    favicon: "images/favicon.ico"
     favicon16x16: "/images/favicon-16x16.png"
     favicon32x32: "/images/favicon-32x32.png"
     apple_touch_icon: "/images/apple-touch-icon.png"
-    safari_pinned_tab: "images/safari-pinned-tab.svg"
+    safari_pinned_tab: "/images/safari-pinned-tab.svg"
 
   label:
     text: "EM"
-    icon: /apple-touch-icon.png
+    icon: "apple-touch-icon.png"
     iconHeight: 35
 
   # profile-mode
@@ -87,11 +87,11 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: ""
     bing:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: ""
     yandex:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: ""
 
   cover:
     hidden: true # hide everywhere but not in structured data
