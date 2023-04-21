@@ -1,0 +1,18 @@
+/*
+This is just a placeholder blank stylesheet so as to support adding custom styles budled with theme's default styles
+
+Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
+*/
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,300;1,300&family=IBM+Plex+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body {
+    font-family: "IBM Plex Sans", sans-serif;!important;
+    font-size: 18px;
+    line-height: 1.8;
+    word-break: break-word;
+    background: var(--theme);
+}
+
+p {
+    font-family: "IBM Plex Sans", sans-serif;!important;
+}
