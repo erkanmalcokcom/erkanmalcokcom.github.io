@@ -32,8 +32,8 @@ The ability to work under pressure while effectively managing expectations on co
 Engaging in deep thinking and contemplation about a particular topic or concept can enhance your ability to recall and access related knowledge when in a situation where you need it the most.
 This process of reflection helps to solidify the information in your memory and makes it more easily retrievable when you need to apply it.
 Therefore, thinking and reflecting on important information is essential to ensure it is readily available and helpful when required. Take your time and consider multiple solutions. If you are motivated, you are more likely to succeed. Thinking about things makes it more likely that the knowledge will be more readily available when you need it most.
-When we are faced with a problem and need to recall what we have learned, we truly realize the extent of our knowledge. Our learning journey is ongoing, and it is worrisome to assume that we have complete mastery over a topic and become overconfident.
 
+When faced with a problem and needing to recall what we have learned, we truly realize the extent of our knowledge. Our learning journey is ongoing, and it is worrisome to assume that we have complete mastery over a topic and become overconfident.
 
 # My approach to learning
 * Stay away from every distraction, especially TV, Social Media, etc., for at least two days.
