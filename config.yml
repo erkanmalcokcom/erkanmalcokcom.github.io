@@ -115,9 +115,9 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: home
-      name: Home
-      url: /
+    - identifier: posts
+      name: Posts
+      url: /posts/
       weight: 10
     - identifier: Subscribe
       name: Subscribe
