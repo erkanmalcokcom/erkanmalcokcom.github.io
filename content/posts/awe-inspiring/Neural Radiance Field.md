@@ -5,6 +5,9 @@ tags:
   - NeRF
   - Neural Radiance Field
   - Zip-NeRF
+categories:
+  - Future Work
+  - Awe-Inspiring
 ---
 
 #Abstract
