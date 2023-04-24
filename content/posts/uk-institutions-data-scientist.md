@@ -16,3 +16,6 @@ link: https://ima.org.uk
 
 * Royal Statistical Society
 link: https://www.rss.org.uk
+
+* Alan Turing Institute
+link: https://www.turing.ac.uk
