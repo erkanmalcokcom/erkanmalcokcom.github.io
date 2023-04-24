@@ -1,9 +1,10 @@
 ---
 title: "Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields"
 date: "April 23, 2023"
-publishdate: "April 23, 2023"
-draft: true
-tags: ["NeRF", "Neural Radiance Field", "Zip-NeRF", "ZipNeRF"]
+tags: 
+  - NeRF
+  - Neural Radiance Field
+  - Zip-NeRF
 ---
 
 #Abstract

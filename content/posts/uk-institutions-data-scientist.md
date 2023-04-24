@@ -1,10 +1,11 @@
 ---
 title: "UK Institutions | Data Scientist & Mathematician & Statistician & Computer Scientist"
 date: "January 19, 2023"
-publishdate: "April 2, 2023"
-draft: true
+draft: false
 tags: 
-  - institutions
+  - UK - Institutions
+categories:
+  - Important Links
 ---
 
 * Newton Institute for Mathematical Sciences
