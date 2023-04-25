@@ -8,7 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-#googleAnalytics: UA-123-45
+googleAnalytics: G-TR1CFJH76Y
 
 minify:
   disableXML: true
@@ -88,11 +88,11 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: ""
-    bing:
-      SiteVerificationTag: ""
-    yandex:
-      SiteVerificationTag: ""
+      SiteVerificationTag: "fhDKVg5d-OsrLIK0uCx9xN_Wo5gJveal8Xekc2wnsW8"
+    #bing:
+    #  SiteVerificationTag: ""
+    #yandex:
+    #  SiteVerificationTag: ""
 
   cover:
     hidden: true # hide everywhere but not in structured data
