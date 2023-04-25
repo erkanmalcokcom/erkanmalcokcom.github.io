@@ -37,9 +37,6 @@ Engaging in deep thinking and contemplation about a particular topic or concept 
 Therefore, thinking and reflecting on important information is essential to ensure it is readily available and helpful when required. Take your time and consider multiple solutions. If you are motivated, you are more likely to succeed. Thinking about things makes it more likely that the knowledge will be more readily available when you need it most.
 When faced with a problem and needing to recall what we have learned, we truly realize the extent of our knowledge. Our learning journey is ongoing, and it is worrisome to assume that we have complete mastery over a topic and become overconfident.
 
-### Transitions from advertising to Data Science
-Studying and self-learning is the best way to learn. I have been studying and learning for the last 10 years. Once you are good to read, and recognise patterns you can do any jobs you want.
-
 # My approach to learning
 When you start to answer a question, you will find another question. It would be best if you responded to that question to find another question. Learning connects dots; in the end, you need another dot to connect. This process will continue until you find a solution. It depends on your curiosity, determination, resources and problem size. Small bites are better than big bites.
 
