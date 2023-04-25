@@ -41,6 +41,8 @@ When faced with a problem and needing to recall what we have learned, we truly r
 Studying and self-learning is the best way to learn. I have been studying and learning for the last 10 years. Once you are good to read, and recognise patterns you can do any jobs you want.
 
 # My approach to learning
+When you start to answer a question, you will find another question. It would be best if you responded to that question to find another question. Learning connects dots; in the end, you need another dot to connect. This process will continue until you find a solution. It depends on your curiosity, determination, resources and problem size. Small bites are better than big bites.
+
 * No distractions. Focus on the task at hand.
 * Start with a question that leads to an answer. Do not stop questioning.
 * Having more experience will help you to discover a creative way.
@@ -49,10 +51,10 @@ Studying and self-learning is the best way to learn. I have been studying and le
 * Keep exploring until you find a pattern. If you cannot find a pattern, you are not ready to find a solution.
 ___
 
-When you start to answer a question, you will find another question. It would be best if you responded to that question to find another question. Learning connects dots; in the end, you need another dot to connect.
-This process will continue until you find a solution. It depends on your curiosity, determination, resources and problem size. Small bites are better than big bites.
+You will learn more from your mistakes than from your success. 
+If you are reading here for some reason, don't let it stop you. 
 
-
+Failure builds character.
 
 💻 www@erkanmalcok.com
 
