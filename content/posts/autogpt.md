@@ -1,5 +1,5 @@
 ---
-title: "Autogpt: At Your Service"
+title: "Auto-GPT: At Your Service"
 date: 2023-04-25T11:06:59+01:00
 draft: false
 ---
