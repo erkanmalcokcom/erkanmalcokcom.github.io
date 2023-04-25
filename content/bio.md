@@ -27,16 +27,21 @@ editPost:
 # Hi, I'm Erkan.
 
 The goal is to pursue a Data Science career, leveraging my mathematics, statistics, and programming expertise, after an extended period in advertising. I possess self-motivation, a diligent work ethic, and enthusiasm. My ability to learn rapidly and collaborate effectively in a team and an independent setting is a strength.
-I am a skilled communicator who excels at explaining intricate concepts. I am attentive and can execute tasks well, following instructions attentively. Additionally, I excel in problem-solving and possess the ingenuity to find solutions proactively.
-The ability to work under pressure while effectively managing expectations on complex subjects is something I possess. This is due to my skill in creating time for deep thinking and reflection on the information I have learned.
-Engaging in deep thinking and contemplation about a particular topic or concept can enhance your ability to recall and access related knowledge when in a situation where you need it the most.
-This process of reflection helps to solidify the information in your memory and makes it more easily retrievable when you need to apply it.
-Therefore, thinking and reflecting on important information is essential to ensure it is readily available and helpful when required. Take your time and consider multiple solutions. If you are motivated, you are more likely to succeed. Thinking about things makes it more likely that the knowledge will be more readily available when you need it most.
 
+I am a skilled communicator who excels at explaining intricate concepts. I am attentive and can execute tasks well, following instructions attentively. Additionally, I excel in problem-solving and possess the ingenuity to find solutions proactively.
+
+I have the skill to manage expectations on complex subjects while working under pressure effectively, resulting from my ability to allocate time for deep thinking and reflection on the acquired information.
+
+Engaging in deep thinking and contemplation about a particular topic or concept can enhance your ability to recall and access related knowledge when in a situation where you need it the most. This process of reflection helps to solidify the information in your memory and makes it more easily retrievable when you need to apply it.
+
+Therefore, thinking and reflecting on important information is essential to ensure it is readily available and helpful when required. Take your time and consider multiple solutions. If you are motivated, you are more likely to succeed. Thinking about things makes it more likely that the knowledge will be more readily available when you need it most.
 When faced with a problem and needing to recall what we have learned, we truly realize the extent of our knowledge. Our learning journey is ongoing, and it is worrisome to assume that we have complete mastery over a topic and become overconfident.
 
+### Transitions from advertising to Data Science
+Studying and self-learning is the best way to learn. I have been studying and learning for the last 10 years. Once you are good to read, and recognise patterns you can do any jobs you want.
+
 # My approach to learning
-* Stay away from every distraction, especially TV, Social Media, etc., for at least two days.
+* No distractions. Focus on the task at hand.
 * Start with a question that leads to an answer. Do not stop questioning.
 * Having more experience will help you to discover a creative way.
 * Complexity contains simple rules. You must build a complex system in more than one day.
