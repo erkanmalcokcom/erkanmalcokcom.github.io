@@ -1,7 +1,7 @@
 ---
 title: "Bio"
 date: 2023-04-20T00:45:00+01:00
-draft: false
+draft: true
 #canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
