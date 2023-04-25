@@ -124,10 +124,6 @@ menu:
       name: Subscribe
       url: /subscribe/
       weight: 20
-    - identifier: bio
-      name: Bio
-      url: /bio/
-      weight: 20
     - identifier: categories
       name: Categories
       url: /categories/
