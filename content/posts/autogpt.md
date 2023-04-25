@@ -32,7 +32,7 @@ python -m autogpt
 ```
 
 Ideally, you should see the following output:
-![AutoGPT Screenshot](../../../autogpt-ss-01.png)
+![AutoGPT Screenshot](../../../posts/autogpt-ss-01.png)
 
 ### Learning Prompting Language
 In NLP, prompting can take many forms, such as providing a sentence or phrase for a language model to complete, asking a question for a model to answer, or providing a piece of information for a model to use in generating text. By using prompts, the model is able to focus on specific aspects of the language and generate more accurate and relevant responses.
