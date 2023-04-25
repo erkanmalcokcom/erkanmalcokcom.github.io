@@ -20,6 +20,7 @@ params:
   description: "Data Science, Machine Learning, Deep Learning, Computer Vision, NLP, AI, Python, R, SQL, Tableau, Power BI, Statistics, Mathematics, Algorithms, Data Structures, Software Engineering, Software Development, Software Architecture, Software Design, Software Testing, Software Maintenance, Software Project Management, Software Quality Assurance, Software Requirements Engineering, Software Configuration Management, Software Process Improvement, Software Metrics, Software Engineering Management, Software Engineering Economics, Software Engineering Education, Software Engineering Tools, Software Engineering Methodologies, Software Engineering Models, Software Engineering Standards, Software Engineering Practices, Software Engineering Research, Software Engineering Ethics, Software Engineering Case Studies, Software Engineering Case Studies, Software Engineering Case Studies"
   keywords: [Blog, Portfolio, PaperMod]
   author: Erkan Malcok
+  GitHubUser: erkanmalcokcom
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "02 Jan 2006"
@@ -74,7 +75,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Content: "\U0001F44B Hi, I'm Erkan. I like brainstorming, observing, interpreting data, integrating new information, theorising, and making decisions based on multiple factors."
+    Content: "\U0001F44B Hi, I'm Erkan. I like brainstorming, observing, interpreting data, integrating new information, theorising, and making decisions based on multiple factors. I'm using Python for almost everything and I'm a lifelong student of Data Science."
     Title: I think complexity contains simple rules however simplicity contains more complex rules.
 
   socialIcons:
@@ -99,7 +100,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/erkanmalcokcom/erkanmalcokcom.github.io/tree/master/content/"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -159,3 +160,6 @@ outputs:
     - HTML
     - RSS
     - JSON # is necessary
+
+permalinks:
+  posts: /:year/:month/:title/
