@@ -1,7 +1,7 @@
 ---
 title: "Bio"
 date: 2023-04-20T00:45:00+01:00
-draft: true
+draft: false
 #canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -25,6 +25,12 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 # Hi, I'm Erkan.
+
+## As a data science student, I aim to develop a strong foundation in mathematical and statistical concepts, programming languages such as Python and R, and machine learning algorithms. I aim to apply these skills to analyze complex datasets and generate meaningful insights to inform decision-making and drive innovation.
+
+Additionally, I want to build my expertise in data visualization techniques to communicate findings clearly and concisely. I also seek to develop proficiency in cloud computing technologies such as AWS and Azure to efficiently manage and process large-scale datasets.
+
+To achieve these objectives, I seek opportunities for hands-on experience in real-world data science projects, participate in hackathons and data science competitions, and continuously learn from the latest research and industry trends through online resources and networking with other data science professionals.
 
 The goal is to pursue a Data Science career, leveraging my mathematics, statistics, and programming expertise, after an extended period in advertising. I possess self-motivation, a diligent work ethic, and enthusiasm. My ability to learn rapidly and collaborate effectively in a team and an independent setting is a strength.
 
@@ -56,4 +62,7 @@ Failure builds character.
 💻 www@erkanmalcok.com
 
 ![Image alt](../photo-bio2.jpg)
+
+If you are honest enough, you will find a way to fix your issues.
+
 

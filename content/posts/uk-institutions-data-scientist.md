@@ -19,3 +19,9 @@ link: https://www.rss.org.uk
 
 * Alan Turing Institute
 link: https://www.turing.ac.uk
+
+* London Mathematical Society
+link: https://www.lms.ac.uk
+
+* Alliance for Data Science Professionals
+link: https://www.alliancefordatascienceprofessionals.com

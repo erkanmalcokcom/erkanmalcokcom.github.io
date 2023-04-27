@@ -6,7 +6,10 @@ tags:
     - SQL
     - Learn-SQL
 ---
----
+___
+https://datasette.io/tutorials/learn-sql
+https://sqlite-tutorial-pycon-2023.readthedocs.io/en/latest/setup.html
+___
 
 ### 1. Relational Database Concepts:
 Understanding the basics of relational databases, tables, and columns is essential to learning SQL. It's important to understand how data is structured and how tables relate to each other.
