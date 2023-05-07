@@ -8,9 +8,9 @@ tags:
     - structure
 ---
 
-### Since numerous readers may only peruse the Introduction and Discussion sections, it is critical to organize the report in a way that allows them to quickly locate the areas of interest. The Results section can be seen as the crux of the report, while the Methods section is designed to explain how the results were obtained, and the Discussion provides your interpretation of the results. Some writers prefer to begin with the Results section before moving on to the Methods section. You should follow the order that you feel most comfortable with, but in any case, you will likely need to revisit prior sections to ensure a cohesive report.
+## Since numerous readers may only peruse the Introduction and Discussion sections, it is critical to organize the report in a way that allows them to quickly locate the areas of interest. The Results section can be seen as the crux of the report, while the Methods section is designed to explain how the results were obtained, and the Discussion provides your interpretation of the results. Some writers prefer to begin with the Results section before moving on to the Methods section. You should follow the order that you feel most comfortable with, but in any case, you will likely need to revisit prior sections to ensure a cohesive report.
 
-### Lastly, a crucial general guideline is that shorter is better. If you can accurately convey something in one sentence rather than two, it is preferable. (However, two concise sentences are superior to one long and convoluted sentence.)
+## Lastly, a crucial general guideline is that shorter is better. If you can accurately convey something in one sentence rather than two, it is preferable. (However, two concise sentences are superior to one long and convoluted sentence.)
 
 #### The Structure of a Statistical Report
 > - Summary
