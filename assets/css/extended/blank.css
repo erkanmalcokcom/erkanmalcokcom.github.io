@@ -6,13 +6,17 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,300;1,300&family=IBM+Plex+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 body {
-    font-family: "IBM Plex Sans", sans-serif;!important;
+    font-family: "IBM Plex Mono", sans-serif;!important;
     font-size: 18px;
     line-height: 1.8;
     word-break: break-word;
     background: var(--theme);
 }
 
+h1, h2, h3, h4, h5, h6 {
+    font-family: "IBM Plex Sans", monospace;!important;
+}
+
 p {
-    font-family: "IBM Plex Sans", sans-serif;!important;
+    font-family: "IBM Plex Mono", sans-serif;!important;
 }

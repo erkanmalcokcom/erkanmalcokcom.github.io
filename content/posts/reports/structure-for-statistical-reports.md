@@ -10,11 +10,11 @@ tags:
 
 ## While there is no prescribed sequence for composing a report, it is recommended to present the sections in the order outlined previously. Since numerous readers may only peruse the Introduction and Discussion sections, it is critical to organize the report in a way that allows them to quickly locate the areas of interest. The Results section can be seen as the crux of the report, while the Methods section is designed to explain how the results were obtained, and the Discussion provides your interpretation of the results. Some writers prefer to begin with the Results section before moving on to the Methods section. You should follow the order that you feel most comfortable with, but in any case, you will likely need to revisit prior sections to ensure a cohesive report. Lastly, a crucial general guideline is that shorter is better. If you can accurately convey something in one sentence rather than two, it is preferable. (However, two concise sentences are superior to one long and convoluted sentence.)
 ### The Structure of a Statistical Report
-    - Summary
-    - Introduction
-    - Methods
-    - Results
-    - Discussion 
+> - Summary
+  - Introduction
+  - Methods
+  - Results
+  - Discussion 
 
 # Summary
 The Summary section of an analysis report should be self-contained, providing a brief overview of the purpose, methodology, key findings, and interpretation. While it is typically written last, it should use language that is accessible to a general audience. Although it's preferable to avoid using statistical jargon or concepts in the summary, there may be instances where it is necessary to accurately convey the results. In such cases, it is better to include a slightly technical but accurate summary rather than a simplified one that could be potentially misleading.
