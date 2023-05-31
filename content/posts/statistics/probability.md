@@ -1,54 +1,48 @@
 ---
-title: "Unpacking the World of Probability"
+title: "Probability Theory: Unlocking the World of Chance"
 date: "May 31, 2023"
 publishdate: "May 31, 2023"
 draft: true 
 ---
 
-## Unpacking the World of Probability
+# Probability Theory: Unlocking the World of Chance
 
-Probability, as a cornerstone of statistics, plays an indispensable role in nearly every aspect of life, including but not limited to decision-making, risk assessment, scientific research, and even in predicting outcomes of certain events. This blog post is designed to guide you through the key concepts of probability, including how to calculate, estimate, and understand its various aspects.
+In the world of mathematics, probability theory has a significant presence due to its application in myriad disciplines, from computer science to quantum physics, finance, and beyond. By the end of this blog post, you will appreciate and understand several critical aspects of probability theory, including how it is represented, calculated, and interpreted.
 
-### Probability Basics
+### Probability: A Measure of Uncertainty
 
-At its most fundamental, probability is a number between 0 and 1, inclusive. When we say the probability of an event occurring is 0, it means that event is impossible—it will not occur. On the other hand, a probability of 1 implies certainty—the event is sure to occur. All other probabilities lie somewhere between these two extremes.
+Let's first appreciate that a probability is a number between 0 and 1, inclusive. In essence, probability quantifies the likelihood of an event happening. A probability of 0 signifies impossibility, a probability of 1 means certainty, and any value in between represents varying degrees of uncertainty. 
 
-### Estimating Probability
+### Estimating Probability: A Data-Driven Approach
 
-Estimating a probability involves using available data to gauge the likelihood of an event. For instance, if there are 15 red balls and 5 blue balls in a bag, the probability of randomly selecting a red ball (without looking) is 15 out of 20, or 0.75. 
+Given data, you can estimate a probability. Let's say you've recorded the weather for the past 100 days, and it rained on 30 of those days. The estimated probability of rain, in this case, would be the number of days it rained divided by the total number of days, or 30/100 = 0.3.
 
-### Probability and Symmetry
+### Symmetry and Probability
 
-Sometimes, probabilities can be calculated using assumptions about the symmetry of an object or situation. For instance, if you flip a fair coin, the outcomes are symmetric—there's an equal chance of getting heads or tails, thus the probability is 1/2 or 0.5 for each outcome.
+Assumptions about symmetry often simplify probability calculations. For example, a fair die has six faces, each with an equal likelihood (1/6) of landing up when rolled. This is due to the symmetry of the die: each face has the same chance because the die is a regular cube.
 
-### The 'Settling Down' Phenomenon
+### The ‘Settling Down’ Phenomenon
 
-This is a crucial concept in statistics. As you repeat an experiment over and over, the relative frequencies of outcomes tend to stabilize. This phenomenon, also known as the law of large numbers, validates the concept of probability itself.
+As a statistical experiment is repeated many times, we often observe a 'settling down' phenomenon. This is the Law of Large Numbers in action, which states that the average result from repeating an experiment multiple times will converge to the expected value.
 
 ### Probability Mass Function (PMF)
 
-The PMF is a function that gives the probability of each possible outcome for a discrete random variable—i.e., a variable that can only take on a countable number of values. For instance, the roll of a die is a discrete random event and its PMF would assign a probability of 1/6 to each outcome from 1 to 6.
+Probabilities of outcomes for discrete data are encapsulated in the PMF. For a discrete random variable X, the PMF is a function that gives the probability that X is exactly equal to a certain value. For instance, in a die roll (a discrete random variable), the PMF would assign a probability of 1/6 to each outcome from 1 to 6.
 
-### Probability Density Function (PDF)
+### Probability Density Function (PDF) 
 
-For continuous random variables—variables that can take on any value in a range—the PDF is used instead of the PMF. The PDF describes the likelihood of any particular outcome. It's worth noting that for a PDF, the total area under the curve equals 1, encapsulating all possible outcomes.
+For continuous data, probabilities are calculated using the PDF. A PDF describes the likelihood of a random variable taking a value within a particular range. Remember that the total area under the graph of a PDF is equal to 1, representing the total probability for all possible outcomes.
 
 ### Validating PMFs and PDFs
 
-Functions purporting to be PMFs or PDFs can be checked for validity. For a PMF, all probabilities must be between 0 and 1, and the sum of all probabilities must equal 1. For a PDF, the function must be non-negative everywhere, and as mentioned, the total area under the curve should equal 1.
+To check if functions claiming to be PMFs or PDFs are valid, you should ensure two conditions: all probabilities they give should be non-negative, and the sum (in the case of a PMF) or integral (in the case of a PDF) over all possible outcomes should be 1.
 
 ### Cumulative Distribution Function (CDF)
 
-The CDF of a random variable is a function that provides the probability that the variable will take a value less than or equal to a particular value. It is calculated differently for discrete and continuous variables but serves the same basic purpose: to summarize the probability distribution.
+The CDF for a random variable is defined as the probability that the variable takes a value less than or equal to a certain value. The CDF for a discrete random variable can be found by summing up the probabilities of outcomes less than or equal to the given value, while for a continuous random variable, you would integrate the PDF.
 
-### Calculating Probabilities with PMF and CDF
+### Calculating Probabilities
 
-In simple cases, you can use the PMF or CDF of a random variable to calculate probabilities. With a PMF, you can find the probability of each discrete outcome directly. With a CDF, you can calculate the probability of a continuous random variable falling within certain intervals.
+In simple situations, you can write down the PMF and the CDF of a discrete random variable and use these to calculate probabilities. For example, the probability of rolling a 3 or less on a fair die is the sum of the PMF values for 1, 2, and 3. 
 
-### Integration and Continuous Probability Distributions
-
-Lastly, for continuous probability distributions with simple PDFs, you can use integration—a fundamental concept of calculus—to calculate probabilities and other related results. For example, you can use integration to find the mean (expected value) or variance of a continuous random variable.
-
-To sum up, probability is a powerful
-
- tool that provides us with the framework to make sense of random phenomena and make informed decisions. Understanding these concepts can greatly enhance your data-driven decision-making abilities, and I hope this post has shed some light on the fascinating world of probability.
+You can use the CDF of a continuous random variable to calculate the probability of the variable lying within certain intervals. For example, to find the probability that a normally-distributed variable falls within one standard deviation of the mean, you would subtract the C
