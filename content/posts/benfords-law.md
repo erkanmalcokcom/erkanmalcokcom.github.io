@@ -25,16 +25,20 @@ To demonstrate the implementation of Benford's Law using Python, we will use a s
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
+
 data = pd.read_csv('sales_data.csv')
 data['FirstDigit'] = abs(data['Amount']).apply(lambda x: int(str(x)[0]))
+
 observed_freq = data['FirstDigit'].value_counts(normalize=True).sort_index()
 expected_freq = pd.Series([np.log10(1 + 1 / d) for d in range(1, 10)], index=range(1, 10))
+
 plt.bar(expected_freq.index, expected_freq, color='blue', alpha=0.5, label='Expected Frequency')
 plt.bar(observed_freq.index, observed_freq, color='red', alpha=0.5, label='Observed Frequency')
 plt.xlabel('First Digit')
 plt.ylabel('Frequency')
 plt.title("Benford's Law: Observed vs. Expected Frequency")
 plt.legend()
+
 plt.show()
 ```
 
