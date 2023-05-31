@@ -3,6 +3,9 @@ title: "Probability Theory: Unlocking the World of Chance"
 date: "May 31, 2023"
 publishdate: "May 31, 2023"
 draft: false
+tags: 
+  - Statistics
+  - Probability
 ---
 
 # Probability Theory: Unlocking the World of Chance
