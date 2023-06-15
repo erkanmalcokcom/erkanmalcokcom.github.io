@@ -53,3 +53,15 @@ _The output of the code above is:_
 2.711692084241104
 
 ```
+
+By applying the Bayesian average, these extreme cases are adjusted towards the average rating of all items on the site. This approach gives a more accurate and fair representation of the product's rating, especially when there are not enough reviews.
+
+However, as the number of reviews for a specific item increases and provides more data, the Bayesian average will gradually converge to the actual average rating of the item. This balances the need for reliability in low-data situations with the desire to reflect actual user opinions as accurately as possible when sufficient data is available.
+
+This is why the Bayesian average is a favored statistical tool for many recommendation systems: it provides a more reliable estimate when data is sparse or potentially skewed by outliers.
+
+
+
+## References
+- https://stackoverflow.com/questions/6653215/bayesian-rating
+- Bayesian Average Ratings, Evan Miller, https://www.evanmiller.org/bayesian-average-ratings.html
