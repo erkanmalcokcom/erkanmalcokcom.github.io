@@ -1,5 +1,5 @@
 ---
-title: "Pyton Memory Management"
+title: "Python Memory Management"
 date: 2023-04-28T15:41:57+01:00
 draft: true
 ---
