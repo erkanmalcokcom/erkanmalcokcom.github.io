@@ -2,6 +2,10 @@
 title: "Bayesian Average Mean"
 date: 2023-06-15T11:47:22+01:00
 draft: false
+tags:
+  - Bayesian Average Mean
+  - Statistics
+---
 ---
 
 
