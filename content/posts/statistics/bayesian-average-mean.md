@@ -49,7 +49,6 @@ print(bayesian_rating)
 _The output of the code above is:_
 
 ```python
-
 2.711692084241104
 
 ```
