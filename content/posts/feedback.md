@@ -25,11 +25,11 @@ As a senior professional, I have been in challenging positions, like the stress 
 
 As an experienced professional, I have faced various challenges, such as stressful projects, individuals prioritising their interests over collaboration or personal reasons that can make a day difficult. It is important to identify the thoughts that cause stress and consider alternative, balanced perspectives. Replace irrational or catastrophic thoughts with more realistic and positive ones to manage stress effectively. Challenges are part of our life, and we need to learn how to deal with them whatever you do in your life.
 
-### The worst is "You can't be or we don't have time .. "
+### The worst is "You can't be, or we don't have time ... "
 
 The worst feedback I have received starts always with negativity. It is quite understandable that they need your attention whatever the reason is. Only thing that you can do is to listen and try to understand the reason behind it. Analyse the feedback to understand the areas that need improvement and how to address them effectively.
 
-### The best is "You can be or how about"
+### The best is "You can be or how about ..."
 
 The best feedback I have received starts always with positivity. In this case you are showing that you care, and try to be constructive. Same as before, you need to listen and try to understand the reason behind it. Because there are reasons that works well. Analyse the feedback to understand exactly what you did well.
 
