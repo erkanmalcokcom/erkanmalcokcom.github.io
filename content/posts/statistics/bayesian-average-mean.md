@@ -6,7 +6,6 @@ tags:
   - Bayesian Average Mean
   - Statistics
 ---
----
 
 
 ## The Bayesian average is a type of weighted average that incorporates prior knowledge or belief, in addition to the given data. This method is used when the data set is small, or when there is a need to prevent extreme values from skewing the results significantly.
@@ -68,12 +67,12 @@ The Bayesian average is a favoured statistical tool for many recommendation syst
 
 ## It's always important to understand your data's context and characteristics before choosing a statistical method.
 
-### Pros of the Bayesian Average
+**Pros of the Bayesian Average**
 * The Bayesian Average is excellent for situations with a wide disparity in the number of ratings per item. If an item has only a few ratings, a simple average might not be representative, and the Bayesian Average can provide a more balanced view.
 * The Bayesian Average can reduce the impact of extreme ratings, especially when the total number of ratings is low.
 * The Bayesian Average provides a broader context to an item's average by considering the average of all items in its calculation
 
-### Cons of the Bayesian Average
+**Cons of the Bayesian Average**
 * The Bayesian Average requires a global average to be calculated, which might not always be possible or meaningful, particularly in dynamic systems where new items are added frequently.
 * The method requires you to choose a confidence level (represented by C in the formula), which can be somewhat subjective. This value represents the number of ratings you believe are needed before an item's own average becomes reliable. Different choices for this value can lead to different results.
 * The Bayesian Average is more complex to calculate and understand than a simple average. This can make it more difficult to explain to users of a rating system how the average ratings are calculated.

@@ -3,24 +3,28 @@ This is just a placeholder blank stylesheet so as to support adding custom style
 
 Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
 */
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,300;0,500;1,300;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital@0;1&family=IBM+Plex+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');')
 
-
-body {
-    font-family: "IBM Plex Mono", sans-serif;!important;
-    font-size: 18px;
-    line-height: 1.8;
+html, body {
+    font-family: "IBM Plex Sans", sans-serif;!important;
     word-break: break-word;
     background: var(--theme);
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: "IBM Plex Mono", monospace;!important;
-    font-weight: 500;
-    line-height: 1.8;
+    font-family: "IBM Plex Sans", monospace;!important;
 }
 
-p {
+p, li, ul {
     font-family: "IBM Plex Mono", sans-serif;!important;
-    font-weight: 300;
 }
+
+strong, b {
+    font-weight: 700;
+}
+
+mark {
+    background-color: rgb(251, 235, 144);
+    color: #4e4e4e;
+}
+
